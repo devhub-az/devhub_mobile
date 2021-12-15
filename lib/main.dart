@@ -14,7 +14,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'DevHub',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: const Color(0xff0d84af),
+        appBarTheme: const AppBarTheme(color: Color(0xff0d84af))
       ),
       home: const MyHomePage(title: 'DevHub main page'),
     );
@@ -49,6 +50,8 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            SvgPicture.asset('assets/images/DevHub_Compact_Logo.svg',width: 100,height: 100,),
+            const SizedBox(height: 100,),
             const Text(
               'You have pushed the button this many times:',
             ),
@@ -56,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
-            SvgPicture.asset('/images/DevHub_Compact_Logo.svg')
+
           ],
         ),
       ),

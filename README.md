@@ -44,18 +44,6 @@ channels:
 
 Yes you can!  Contributions are welcomed. Thank you for considering contributing to the DevHub!
 
-### Coding Style
-
-DevHub follows the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
-coding standard and the [PSR-4](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
-autoloading standard.
-
-### PHP CS FIXER
-
-Don't worry if your code styling isn't perfect! PHP CS FIXER will automatically merge any style fixes into the DevHub
-repository after pull requests are merged. This allows us to focus on the content of the contribution and not the code
-style.
-
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within DevHub, please

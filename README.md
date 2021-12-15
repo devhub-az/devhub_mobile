@@ -1,16 +1,67 @@
-# devhub
+<p align="center">
+<img src="assets/images/DevHub_Monochrome_Full_Logo.png" width="400">
+</p>
 
-devhub
+<p align="center">
+    <a href="LICENCE.md"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="LICENSE"></a>
+    <a href="https://depfu.com/github/hose1021/DevHub?project_id=18162"><img src="https://badges.depfu.com/badges/2fc07bc9db4846f71b7181a4a304efe5/overview.svg" alt="Depfu"></a>
+    <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-red.svg" alt="Conventional commits">
+</p>
 
-## Getting Started
+## About DevHub
 
-This project is a starting point for a Flutter application.
+[AZ] **DevHub**, proqramçılar üçün informasiya texnologiyaları sahəsindəki məqalələri və istifadəçi nəşrlərini özündə birləşdirən bir blogdur.
+DevHub, ölkədə İT savadlılığının inkişafı üçün çalışan Azərbaycan developerlərinə yönəlib. 
+DevHub-ın əsas vəzifəsi Azərbaycan proqramçılarının təcrübələri və uğurlarını digər proqramçılar ilə bölüşməsinə kömək etməkdir.
+DevHub, Tailwind, Vue, Laravel kimi müasir veb texnologiyalarından istifadə edir.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[EN] **DevHub** is a blog for programmers that includes articles and user publications on topics in the field of information technology.
+DevHub is focused on Azerbaijani developers in order to create space for the development of IT literacy in the country.
+The main task of DevHub is to help Azerbaijani programmers share their experience and success with other programmers.
+DevHub uses modern web technologies such as Tailwind, Vue, Laravel.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[RU] **DevHub** это блог для программистов, который включает в себя статьи и публикации пользователей на темы в сфере информационных технологий.
+DevHub ориентирован на азербайджанских разработчиков с целью создать пространство для развития IT грамотности в стране.
+Основной задачей DevHub является помогать азербайджанским программистам обмениваться своим опытом и успехами с другими программистами. 
+DevHub использует такие современные веб-технологии, как Tailwind, Vue, Laravel.
+
+## Setup, help & support.
+Head over to the [wiki](https://github.com/hose1021/DevHub/wiki).
+If you don't find what you're looking for there, [talk to a human](#support-questions). Please do not use our issue tracker for support requests.
+
+## Support Questions
+
+DevHub's GitHub issue trackers are not intended to provide DevHub help or support. Instead, use one of the following
+channels:
+
+* [Github Discussions](https://github.com/hose1021/DevHub/discussions)
+* [Telegram](https://t.me/devhub_chat)
+* [FAQ](https://github.com/hose1021/DevHub/wiki/FAQ)
+
+## Can I contribute?
+
+Yes you can!  Contributions are welcomed. Thank you for considering contributing to the DevHub!
+
+### Coding Style
+
+DevHub follows the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+coding standard and the [PSR-4](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
+autoloading standard.
+
+### PHP CS FIXER
+
+Don't worry if your code styling isn't perfect! PHP CS FIXER will automatically merge any style fixes into the DevHub
+repository after pull requests are merged. This allows us to focus on the content of the contribution and not the code
+style.
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within DevHub, please
+create [github Issie](https://github.com/hose1021/DevHub/issues) with label `bug`.
+
+All security vulnerabilities will be promptly addressed.
+
+## License
+These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENCE.md) file.
